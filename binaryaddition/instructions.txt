@@ -1,0 +1,8 @@
+011R0 000R1 0--R2 211R2 200R2 2--L3
+30-R4 31-R5 4-0L6 5-1L6 6--L3 3--L7
+70-R8 71-R9 8-0La 9-1La a--L7 7--Rb
+b-0R1 111R1 100R1 1--Rc c11Rc c00Rc
+c--Ld d10Le d01Ld d--Ri e11Le e00Le
+e--Lg g01Lh g10Lg h11Lh h00Lh h--R0
+i1-Ri i0-Ri i--Lj j--Lj j11Lk j00Lk
+k11Lk k00Lk k--NF
