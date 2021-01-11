@@ -69,3 +69,7 @@ F by convention is the finished state of the program.
 > 301NF 
 
 > 310L3
+
+## Logic
+
+The increment program must consider two cases. The first and simplest is that the binary number in question ends with a zero. In this case, the head moves to the end of the number and then replaces said zero with a one. the operation is now complete. For example, the number 100110 incremented gives 100111. The more complex second case exists for binary numbers ending in one or more ones. In this case, the head finds the end of the number then moves left replacing ones with zeroes until it finds a zero which it replaces with a one to complete the operation. For example 100111 incremented gives 101000. The instruction set manages these multiple cases using different states. This is how these programs 'store' information.
