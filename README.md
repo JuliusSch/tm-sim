@@ -34,7 +34,7 @@ These are the files for the increment program.
 
 > -01
 
-- is a blank cell on the tape.
+\- is a blank cell on the tape.
 
 ### State alphabet
 
@@ -49,13 +49,23 @@ F by convention is the finished state of the program.
 ### Instruction set
 
 > 011R0
+
 > 000R1 
+
 > 0-0L2
+
 > 210L2
+
 > 201NF
+
 > 2-1NF
+
 > 111R1
+
 > 100R1
+
 > 1--L3 
+
 > 301NF 
+
 > 310L3
