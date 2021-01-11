@@ -25,3 +25,37 @@ The program also supports editing the tape, pausing and starting the machine, tr
 The machine is shown here completing one operation, namely the adding of two binary numbers.
 
 ![A simpler increment operation](demo/turing-machine-running-increment.gif)
+
+## Program Files
+
+These are the files for the increment program.
+
+### Symbol alphabet
+
+> -01
+
+- is a blank cell on the tape.
+
+### State alphabet
+
+> 0123F
+
+F by convention is the finished state of the program.
+
+### Initial tape configuration
+
+> 0100111
+
+### Instruction set
+
+> 011R0
+> 000R1 
+> 0-0L2
+> 210L2
+> 201NF
+> 2-1NF
+> 111R1
+> 100R1
+> 1--L3 
+> 301NF 
+> 310L3
