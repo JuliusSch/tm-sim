@@ -23,3 +23,5 @@ The program also supports editing the tape, pausing and starting the machine, tr
 ![A program running](demo/turing-machine-running.gif)
 
 The machine is shown here completing one operation, namely the adding of two binary numbers.
+
+![A simpler increment operation](demo/turing-machine-running-increment.gif)
