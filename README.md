@@ -20,9 +20,11 @@ Using this framework, users can write their own programs for the machine to run.
 The program also supports editing the tape, pausing and starting the machine, tracking which instruction is currently being executed and variable running speeds for both quick calculation and slow analysis of the steps involved.
 ## Demo
 
+The machine is shown here completing one operation, namely the adding of two binary numbers.
+
 ![A program running](demo/turing-machine-running.gif)
 
-The machine is shown here completing one operation, namely the adding of two binary numbers.
+And here, a simpler decrement function.
 
 ![A simpler increment operation](demo/turing-machine-running-increment.gif)
 
