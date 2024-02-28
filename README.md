@@ -24,7 +24,7 @@ The machine is shown here completing one operation, namely the adding of two bin
 
 ![A program running](demo/turing-machine-running.gif)
 
-And here, a simpler decrement function.
+And here, a simpler increment function.
 
 ![A simpler increment operation](demo/turing-machine-running-increment.gif)
 
